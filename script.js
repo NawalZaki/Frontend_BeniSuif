@@ -1,0 +1,4 @@
+function showMSG()
+{
+    alert("welcome")
+}
